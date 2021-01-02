@@ -1,2 +1,2 @@
-# SoloLearnSolutions
+# SoloLearnSolutionsJava
 Sololearn practice coach
