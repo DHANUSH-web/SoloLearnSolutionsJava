@@ -1,2 +1,2 @@
-# SoloLeanSolutions
+# SoloLearnSolutions
 Sololearn practice coach
